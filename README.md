@@ -1,4 +1,5 @@
 ﻿# LectureMate
+ <img src="3Design/3.2Logo/logo.jpg"/>
 
 ## Introduction
 
