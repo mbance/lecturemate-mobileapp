@@ -1,0 +1,62 @@
+\documentclass{report}
+
+%Document Preamble
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper, portrait, margin=1.4in]{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{sectsty}
+\usepackage{titlesec}
+\usepackage[normalem]{ulem}
+\usepackage{hyperref}
+\useunder{\uline}{\ul}{}
+
+\chapternumberfont{\LARGE} 
+\chaptertitlefont{\Large}
+\sectionfont{\large}
+\subsectionfont{\normalsize}
+
+\usepackage{enumitem}
+\setitemize{noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt}
+
+%Document Title Page
+\title{\textbf{IS53007D: Computing Project} \vspace{0.5cm} \hrule \vspace{0.5cm} Project Specification}
+\date{October 2019}
+\author{\textbf{Manpreet Bance}}
+
+\begin{document}
+\maketitle
+
+%Document
+
+\section{Work Overview}
+	I will be creating a mobile application for the purpose of making thorough and detailed notes for educational purposes for use mainly by students and those in an educational environment. The application will allow its users to record lectures through a various number of media such as photo, video and voice recordings with the voice recording being the main feature which is being focussed on. The voice recording will run throughout the lecture, initialised by the user - potentially making use of any microphones or recording equipment in the lecture theatres or rooms to be accessed by the application. Features will include making written notes, voice snippets, attaching or taking photos or sketches of any graphs/diagrams.
+	Users seem to state that they have issues tracking and making notes and using this application works in a way which almost automates and eases the note-taking process, taking the stress out of rushing to take take notes in a fast-paced learning environment and having potentially missed any important notes. This also allows for better and more organised notes when it comes to revision and having the notes readily available with all the relevant information with the option to play back the recording of the lecture with hotspots and comments of important sections of the lecture.
+	The mobile application would be used in conjunction with potential, existing recording equipment in lecture theatres and educational settings and be linked and communicate this media and be uploaded to a database holding the information. The application will use the recording equipment, or if unavailable, built-in microphone of the device being used as the input.
+
+\section{Technologies and materials}
+	This will be an application which can be used across mobile platforms on both iOS and Android. This will be created implementing HTML, CSS and a relational database management system - such as, MySQL. A back-end aspect will also be implemented making use of either Java or more likely, Python due to it's stronger data and machine learning capabilities.
+	Libraries for text and voice recognition, for example, OCR recognition as well as a library for recognising speech and outputting this as typed text. If available, I will look to use libraries which are able to scan text on a page and collect and search for relevant data to return research papers or links.
+	I will be using techniques such as database management, data mining, text and voice recognition to create this application and implement its core and additional features whereby a database will be used to store and access the data held about each lecture and the different media and notes associated with this. As well as this, it will make use of data mining where using an algorithm to detect the content of the lecture, it will provide a list of relevant research papers of websites; the text and voice recognition will be used to convert written notes into a more readable and legible form of typed notes and in the same way the voice recognition will be used to type notes which are verbally spoken making use of existing libraries which make these features easier to implement.
+	Links to some frameworks which I plan to use are:
+	\begin{enumerate}
+		\item https://cloud.google.com/vision/docs/ocr - Google Cloud Vision API (Optical Character Recognition)
+		\item https://stackoverflow.com/questions/3034925/java-speech-recognition-api - Stack Overflow Forum | Java Speech Recognition API
+	\end{enumerate}
+
+\section{Motivation research}
+	Existing inspiring works which I am taking inspiration from are Evernote and Microsoft OneNote in terms of their note taking capabilities - however, these are more focussed on text and written notes. Contrary to these existing note-taking apps, my project will be based around voice recording and this will be its main focus - this takes inspiration from SoundCloud and its ability to make notes and comments on certain parts of the recording as well as highlight important areas and identify hotspots within the recording to show the most important parts of the lecture to be able to scrub through which is helpful when it comes to revision rather than scouring and listening back to find hotspots manually.
+
+\section{Existing knowledge}
+	Working on a group project in the previous year has helped me to develop and understand the requirements needed to fulfil a project and the depth or research and background information. Furthermore, technical knowledge I have learnt from previous modules such as Web Development is what I can use to aid in creating the mobile app as it will be partly developed using PhoneGap, which creates apps using HTML and styling through CSS. As well as this, development using Java and Python, which I was able to practice in Problem Solving and Principles and Applications of Programming. Additionally, working with algorithms in the module Algorithms and Data Structures, which allowed me to understand concepts regarding this which I can use in implementing the back-end of the application. The Data, and the Web module gave me an insight into how best to organise and store data and in which type of database.
+
+\section{New knowledge}
+	I need to acquire skills in using existing modules and libraries to my application and making sure that this works successfully, as well as app development in general and the process of creating an app and the different stages involved in this.
+	I plan to acquire these skills by what I have learnt in previous modules as well as learning through watching YouTube series in app development.
+
+\section{Timeline and milestones}
+I plan to carry out research and surveys/questionnaires with end users as well as a paper and high-fidelity prototypes prior to creating a final prototype and moving onto more user testing and surveys where they will provide feedback on the prototype to suggest features and improvements which can be made in future iterations. This will be carried out until January 2020 whereon-in I will move onto creating the first version of the application following feedback. I will meet with my supervisor at least every two weeks to confirm good progress is being made and to clarify any questions and obtain any support. A Gantt chart will be created at a later stage to provide a clear set of personally set deadlines and milestones which need to be met and signed off by my supervisor.
+	I will research from different APIs which can be used in conjunction with the mobile application to provide all the features required but at the very least the minimum viable product. As mentioned above, APIs will include for recognition of text and voice and provide relevant results through scraping.
+	My minimum viable product is to create an application which using a voice recording as the main feature of recording lecture notes and highlighting hotspots and key areas of a lecture and make detailed notes and comments with relevant information.	
+
+\end{document}
