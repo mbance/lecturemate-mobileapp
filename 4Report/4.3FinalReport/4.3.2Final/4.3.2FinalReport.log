@@ -1,0 +1,1598 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.3.25)  12 JUN 2020 15:26
+entering extended mode
+**./4.3.2FinalReport.tex
+(4.3.2FinalReport.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (report.cls
+
+LaTeX Warning: You have requested document class `report',
+               but the document class provides `Report'.
+
+Document Class: Report 2017/08/27 v1.6 LaTeXTemplates.com
+("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count167
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3packages/xparse\xparse.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count168
+\l__pdf_internal_box=\box45
+))
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count169
+\g__xparse_grabber_int=\count170
+\l__xparse_m_args_int=\count171
+\l__xparse_v_nesting_int=\count172
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\bk10.clo"
+File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count173
+\c@chapter=\count174
+\c@section=\count175
+\c@subsection=\count176
+\c@subsubsection=\count177
+\c@paragraph=\count178
+\c@subparagraph=\count179
+\c@figure=\count180
+\c@table=\count181
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2020/03/22 3.42 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 573.
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\nil.ldf"
+Language: nil 2020/03/22 3.42 Nil language
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count182
+\U@D=\dimen135
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+\bbl@dirlevel=\count183
+)
+\l@nil=\language78
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrbase.sty"
+Package: scrbase 2020/04/19 v3.30 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrlfile.sty"
+Package: scrlfile 2020/04/19 v3.30 KOMA-Script package (loading files)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrhack.sty"
+Package: scrhack 2020/04/19 v3.30 KOMA-Script package (hacking other packages)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrkbase.sty"
+Package: scrkbase 2020/04/19 v3.30 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/xpatch\xpatch.sty"
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+Package scrhack Info: loading setspace hack on input line 193.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\setspace.hak"
+File: setspace.hak 2020/04/19 v3.30 KOMA-Script scrhack part (hacking package s
+etspace)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\longtable.sty"
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip49
+\LTright=\skip50
+\LTpre=\skip51
+\LTpost=\skip52
+\LTchunksize=\count184
+\LTcapwidth=\dimen136
+\LT@head=\box46
+\LT@firsthead=\box47
+\LT@foot=\box48
+\LT@lastfoot=\box49
+\LT@cols=\count185
+\LT@rows=\count186
+\c@LT@tables=\count187
+\c@LT@chunks=\count188
+\LT@p@ftn=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/siunitx\siunitx.sty"
+Package: siunitx 2020/02/25 v2.8b A comprehensive (SI) units package
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen137
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen138
+\ar@mcellbox=\box50
+\extrarowheight=\dimen139
+\NC@list=\toks18
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box51
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3packages/l3keys2e\l3keys2e.sty"
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box52
+\l__siunitx_tmp_dim=\dimen140
+\l__siunitx_tmp_int=\count189
+\l__siunitx_number_mantissa_length_int=\count190
+\l__siunitx_number_uncert_length_int=\count191
+\l__siunitx_round_int=\count192
+\l__siunitx_process_decimal_int=\count193
+\l__siunitx_process_uncertainty_int=\count194
+\l__siunitx_process_fixed_int=\count195
+\l__siunitx_process_integer_min_int=\count196
+\l__siunitx_process_precision_int=\count197
+\l__siunitx_group_min_int=\count198
+\l__siunitx_angle_marker_box=\box53
+\l__siunitx_angle_unit_box=\box54
+\l__siunitx_angle_marker_dim=\dimen141
+\l__siunitx_angle_unit_dim=\dimen142
+\l__siunitx_unit_int=\count199
+\l__siunitx_unit_denominator_int=\count266
+\l__siunitx_unit_numerator_int=\count267
+\l__siunitx_unit_prefix_int=\count268
+\l__siunitx_unit_prefix_base_int=\count269
+\l__siunitx_unit_prefix_gram_int=\count270
+\l__siunitx_number_product_int=\count271
+\c__siunitx_one_fill_skip=\skip55
+\l__siunitx_table_unit_align_skip=\skip56
+\l__siunitx_table_exponent_dim=\dimen143
+\l__siunitx_table_integer_dim=\dimen144
+\l__siunitx_table_mantissa_dim=\dimen145
+\l__siunitx_table_marker_dim=\dimen146
+\l__siunitx_table_result_dim=\dimen147
+\l__siunitx_table_uncert_dim=\dimen148
+\l__siunitx_table_fill_pre_dim=\dimen149
+\l__siunitx_table_fill_post_dim=\dimen150
+\l__siunitx_table_fill_mid_dim=\dimen151
+\l__siunitx_table_pre_box=\box55
+\l__siunitx_table_post_box=\box56
+\l__siunitx_table_mantissa_box=\box57
+\l__siunitx_table_result_box=\box58
+\l__siunitx_table_number_align_skip=\skip57
+\l__siunitx_table_text_align_skip=\skip58
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/translator\translator.sty"
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/booktabs\booktabs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen152
+\lightrulewidth=\dimen153
+\cmidrulewidth=\dimen154
+\belowrulesep=\dimen155
+\belowbottomsep=\dimen156
+\aboverulesep=\dimen157
+\abovetopsep=\dimen158
+\cmidrulesep=\dimen159
+\cmidrulekern=\dimen160
+\defaultaddspace=\dimen161
+\@cmidla=\count272
+\@cmidlb=\count273
+\@aboverulesep=\dimen162
+\@belowrulesep=\dimen163
+\@thisruleclass=\count274
+\@lastruleclass=\count275
+\@thisrulewidth=\dimen164
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
+Package: caption 2020/05/10 v3.4j Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen165
+\captionmargin@=\dimen166
+\captionwidth=\dimen167
+\caption@tempdima=\dimen168
+\caption@indent=\dimen169
+\caption@parindent=\dimen170
+\caption@hangindent=\dimen171
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count276
+\c@continuedfloat=\count277
+Package caption Info: longtable package is loaded.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\ltcaption.sty"
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count278
+\Gm@cntv=\count279
+\c@Gm@tempcnt=\count280
+\Gm@bindingoffset=\dimen172
+\Gm@wd@mp=\dimen173
+\Gm@odd@mp=\dimen174
+\Gm@even@mp=\dimen175
+\Gm@layoutwidth=\dimen176
+\Gm@layoutheight=\dimen177
+\Gm@layouthoffset=\dimen178
+\Gm@layoutvoffset=\dimen179
+\Gm@dimlist=\toks19
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrlayer-scrpage.sty"
+Package: scrlayer-scrpage 2020/04/19 v3.30 KOMA-Script package (end user interf
+ace for scrlayer)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrlayer.sty"
+Package: scrlayer 2020/04/19 v3.30 KOMA-Script package (defining layers and pag
+e styles)
+\footheight=\skip59
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 210
+6.
+)
+Package scrbase Info: Unknown processing state.
+(scrbase)             Processing option `markcase=used'
+(scrbase)             of member `.scrlayer-scrpage.sty' of family
+(scrbase)             `KOMA' doesn't set
+(scrbase)             a valid state. This will be interpreted
+(scrbase)             as \FamilyKeyStateProcessed on input line 724.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=standard'.
+
+1: chapter
+1: chapter
+1: section
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen180
+\Gin@req@width=\dimen181
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count281
+\float@exts=\toks22
+\float@box=\box59
+\@float@everytoks=\toks23
+\@floatcapt=\box60
+)
+Package scrhack Info: loading float hack on input line 7.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\float.hak"
+File: float.hak 2020/04/19 v3.30 KOMA-Script scrhack part (hacking package floa
+t)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\tocbasic.sty"
+Package: tocbasic 2020/04/19 v3.30 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip60
+\scr@dte@tocline@numbox=\box61
+)
+Package scrhack Info: redefining \newfloat on input line 163.
+Package scrhack Info: redefining \listof on input line 163.
+Package scrhack Info: undefining \float@addtolists on input line 163.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/sectsty\sectsty.sty"
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+
+! LaTeX Error: Command \chapterfont already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.251 ...{1}\SS@titlepart\SS@makeulinepartchap#1}}
+                                                  
+? s
+OK, entering \scrollmode...
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/ulem\ulem.sty"
+\UL@box=\box62
+\UL@hyphenbox=\box63
+\UL@skip=\skip61
+\UL@hook=\toks24
+\UL@height=\dimen182
+\UL@pe=\count282
+\UL@pixel=\dimen183
+\ULC@box=\box64
+Package: ulem 2019/11/18
+\ULdepth=\dimen184
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count283
+\sf@farskip=\skip62
+\sf@captopadj=\dimen185
+\sf@capskip=\skip63
+\sf@nearskip=\skip64
+\c@subfigure=\count284
+\c@subfigure@save=\count285
+\c@lofdepth=\count286
+\c@subtable=\count287
+\c@subtable@save=\count288
+\c@lotdepth=\count289
+\sf@top=\skip65
+\sf@bottom=\skip66
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pdfescape\pdfescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/hycolor\hycolor.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/letltxmacro\letltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen186
+\Hy@linkcounter=\count290
+\Hy@pagecounter=\count291
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/intcalc\intcalc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/etexcmds\etexcmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count292
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count293
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen187
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/bitset\bitset.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/bigintcalc\bigintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count294
+\Field@Width=\dimen188
+\Fld@charsize=\dimen189
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/atbegshi\atbegshi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count295
+\c@Item=\count296
+\c@Hfootnote=\count297
+)
+Package scrhack Info: hyperref hack deactivated because of
+(scrhack)             detection of hyperref version, that doesn't
+(scrhack)             need that hack, on input line 20.
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/atveryend\atveryend.sty"
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+\Fld@listcount=\count298
+\c@bookmark@seq@number=\count299
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/rerunfilecheck\rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/uniquecounter\uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip67
+)
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 20.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 20.
+Package hyperref Info: Option `colorlinks' set `true' on input line 20.
+Package hyperref Info: Option `unicode' set `true' on input line 20.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\puenc.def"
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 20.
+
+(4.3.2FinalReport.aux)
+\openout1 = `4.3.2FinalReport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/translator\translator-basic-dictionary-
+English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/siunitx\siunitx-abbreviations.cfg"
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count300
+\scratchdimen=\dimen190
+\scratchbox=\box65
+\nofMPsegments=\count301
+\nofMParguments=\count302
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen191
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
+\everyMPtoPDFconversion=\toks26
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=495.89197pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=23.12738pt
+* \headheight=17.22217pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=69.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package scrlayer Info: Setting magic \footheight to \baselineskip while
+(scrlayer)             \begin{document} on input line 20.
+\AtBeginShipoutBox=\box66
+Package hyperref Info: Link coloring ON on input line 20.
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/refcount\refcount.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/gettitlestring\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count306
+)
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
+
+(4.3.2FinalReport.out) (4.3.2FinalReport.out)
+\@outlinefile=\write3
+\openout3 = `4.3.2FinalReport.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 20.
+<img/logo1.jpg, id=355, 353.82187pt x 158.09062pt>
+File: img/logo1.jpg Graphic file (type jpg)
+<use img/logo1.jpg>
+Package pdftex.def Info: img/logo1.jpg  used on input line 28.
+(pdftex.def)             Requested size: 227.62204pt x 101.7035pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 59.
+ [1
+
+
+{C:/Users/ManpreetBance/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./i
+mg/logo1.jpg>]
+--------------------
+ Declaration of Authorship
+--------------------
+1: section
+[1
+
+] (4.3.2FinalReport.toc
+1: section
+[2
+
+
+] [3])
+\tf@toc=\write4
+\openout4 = `4.3.2FinalReport.toc'.
+
+ [4]
+! Undefined control sequence.
+l.110 \itemoffigures
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.112 \itemoftables
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (3.80174pt too wide) in paragraph at lines 117--118
+\OT1/cmr/m/n/10 support and guidance throughout the course of the entire projec
+t, providing assistance from preparing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+[5]
+1: section
+[6
+
+]
+Chapter 1.
+
+Overfull \hbox (9.7739pt too wide) in paragraph at lines 143--144
+\OT1/cmr/m/n/10 of notes which can be made are rich text, uploaded images or ca
+mera photos, links, documents/research
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+1: section
+[7
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+[9]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+1: section
+[10
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+
+Overfull \hbox (7.81546pt too wide) in paragraph at lines 213--214
+[]\OT1/cmr/m/n/10 Design-specific widgets such as Material design using Google'
+s design language as well as Cupertino
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+
+ []
+
+[12]
+Chapter 3.
+1: section
+[13
+
+] [14]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
+1: section
+[15
+
+] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+[17]
+<img//UseCase_UML.jpeg, id=536, 650.43pt x 520.344pt>
+File: img//UseCase_UML.jpeg Graphic file (type jpg)
+<use img//UseCase_UML.jpeg>
+Package pdftex.def Info: img//UseCase_UML.jpeg  used on input line 305.
+(pdftex.def)             Requested size: 433.62pt x 346.90572pt.
+ [18 <./img//UseCase_UML.jpeg>] [19]
+<img//newnote_process.png, id=547, 2457.18pt x 1705.12032pt>
+File: img//newnote_process.png Graphic file (type png)
+<use img//newnote_process.png>
+Package pdftex.def Info: img//newnote_process.png  used on input line 320.
+(pdftex.def)             Requested size: 433.62pt x 300.89825pt.
+ [20 <./img//newnote_process.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+<img//review_process.png, id=553, 2458.68562pt x 1714.90688pt>
+File: img//review_process.png Graphic file (type png)
+<use img//review_process.png>
+Package pdftex.def Info: img//review_process.png  used on input line 336.
+(pdftex.def)             Requested size: 433.62pt x 302.4421pt.
+[21 <./img//review_process.png>]
+<img//editnote_process.png, id=559, 2463.2025pt x 1716.4125pt>
+File: img//editnote_process.png Graphic file (type png)
+<use img//editnote_process.png>
+Package pdftex.def Info: img//editnote_process.png  used on input line 348.
+(pdftex.def)             Requested size: 433.62pt x 302.13144pt.
+ [22 <./img//editnote_process.png>]
+Chapter 5.
+
+Overfull \hbox (0.96815pt too wide) in paragraph at lines 364--365
+\OT1/cmr/m/n/10 The Sequence Diagram shows the process of the interactions betw
+een the two consumers in sequential
+ []
+
+1: section
+[23
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
+
+ []
+
+<img//newnote.png, id=569, 309.40594pt x 650.43pt>
+File: img//newnote.png Graphic file (type png)
+<use img//newnote.png>
+Package pdftex.def Info: img//newnote.png  used on input line 379.
+(pdftex.def)             Requested size: 144.54pt x 303.85614pt.
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
+
+ []
+
+<img//list.png, id=575, 309.40594pt x 650.43pt>
+File: img//list.png Graphic file (type png)
+<use img//list.png>
+Package pdftex.def Info: img//list.png  used on input line 393.
+(pdftex.def)             Requested size: 144.54pt x 303.85614pt.
+[25 <./img//newnote.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 401--402
+
+ []
+
+<img//recording.png, id=581, 309.40594pt x 650.43pt>
+File: img//recording.png Graphic file (type png)
+<use img//recording.png>
+Package pdftex.def Info: img//recording.png  used on input line 407.
+(pdftex.def)             Requested size: 144.54pt x 303.85614pt.
+[26 <./img//list.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+
+ []
+
+<img//playback.png, id=587, 309.40594pt x 650.43pt>
+File: img//playback.png Graphic file (type png)
+<use img//playback.png>
+Package pdftex.def Info: img//playback.png  used on input line 421.
+(pdftex.def)             Requested size: 144.54pt x 303.85614pt.
+[27 <./img//recording.png>] [28 <./img//playback.png>]
+Chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
+
+ []
+
+1: section
+[29
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
+
+ []
+
+<img//newnote_code.png, id=611, 645.16031pt x 272.51813pt>
+File: img//newnote_code.png Graphic file (type png)
+<use img//newnote_code.png>
+Package pdftex.def Info: img//newnote_code.png  used on input line 488.
+(pdftex.def)             Requested size: 433.62pt x 183.16003pt.
+
+Overfull \hbox (3.61537pt too wide) in paragraph at lines 488--489
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--499
+
+ []
+
+<img//list_code.png, id=613, 596.2275pt x 369.63094pt>
+File: img//list_code.png Graphic file (type png)
+<use img//list_code.png>
+Package pdftex.def Info: img//list_code.png  used on input line 503.
+(pdftex.def)             Requested size: 433.62pt x 268.82439pt.
+
+Overfull \hbox (3.61537pt too wide) in paragraph at lines 503--504
+ [] 
+ []
+
+[32 <./img//newnote_code.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+
+ []
+
+[33 <./img//list_code.png>]
+<img//playback_code.png, id=626, 554.82281pt x 315.42844pt>
+File: img//playback_code.png Graphic file (type png)
+<use img//playback_code.png>
+Package pdftex.def Info: img//playback_code.png  used on input line 519.
+(pdftex.def)             Requested size: 361.34999pt x 205.43515pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+
+ []
+
+[34 <./img//playback_code.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
+
+ []
+
+<img//recording_code.png, id=635, 540.51938pt x 951.555pt>
+File: img//recording_code.png Graphic file (type png)
+<use img//recording_code.png>
+Package pdftex.def Info: img//recording_code.png  used on input line 546.
+(pdftex.def)             Requested size: 271.0125pt x 477.11212pt.
+[35]
+Overfull \vbox (12.22015pt too high) has occurred while \output is active []
+
+
+[36 <./img//recording_code.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 555--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--560
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--562
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--564
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--570
+
+ []
+
+[37]
+Overfull \hbox (5.93956pt too wide) in paragraph at lines 571--572
+\OT1/cmr/m/n/10 functionality of the app and so deployment would use the CI/CD 
+(Continuous Integration/Continuous
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--572
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--574
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--576
+
+ []
+
+[38]
+Chapter 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 595--596
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 601--602
+
+ []
+
+
+Overfull \hbox (7.77377pt too wide) in paragraph at lines 608--653
+ [][] 
+ []
+
+1: section
+[39
+
+]
+Overfull \vbox (25.9079pt too high) has occurred while \output is active []
+
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 662--663
+
+ []
+
+[41] [42]
+Underfull \hbox (badness 10000) in paragraph at lines 747--748
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 749--750
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--755
+
+ []
+
+[43] [44]
+Chapter 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--783
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 784--785
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 786--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--789
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--791
+
+ []
+
+1: section
+[45
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 792--793
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 794--795
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 796--797
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 798--799
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 800--801
+
+ []
+
+[46]
+Overfull \hbox (5.8294pt too wide) in paragraph at lines 809--810
+[]\OT1/cmr/m/n/10 Add Attachments: This was a feature which was conceived durin
+g the ideation of the application
+ []
+
+[47]
+! Misplaced alignment tab character &.
+<argument> “Upload Image to Firebase Storage &
+                                                 Save Image url to Firebase ...
+l.842 ...& Save Image url to Firebase Database”}
+                                                  .
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+1: section
+[48
+
+]
+Appendix A.
+<img//ActivityDiagram.png, id=716, 830.6232pt x 487.8225pt>
+File: img//ActivityDiagram.png Graphic file (type png)
+<use img//ActivityDiagram.png>
+Package pdftex.def Info: img//ActivityDiagram.png  used on input line 885.
+(pdftex.def)             Requested size: 505.89pt x 297.11723pt.
+1: section
+[49
+
+]
+Overfull \vbox (6.02525pt too high) has occurred while \output is active []
+
+
+[50 <./img//ActivityDiagram.png>]
+<img//SequenceDiagram.png, id=726, 686.565pt x 491.9178pt>
+File: img//SequenceDiagram.png Graphic file (type png)
+<use img//SequenceDiagram.png>
+Package pdftex.def Info: img//SequenceDiagram.png  used on input line 892.
+(pdftex.def)             Requested size: 505.89pt x 362.45972pt.
+ [51 <./img//SequenceDiagram.png>]
+Appendix B.
+<img//bug_1.png, id=732, 707.64375pt x 221.32687pt>
+File: img//bug_1.png Graphic file (type png)
+<use img//bug_1.png>
+Package pdftex.def Info: img//bug_1.png  used on input line 900.
+(pdftex.def)             Requested size: 433.62pt x 135.62383pt.
+
+Overfull \hbox (3.61537pt too wide) in paragraph at lines 900--901
+[][] 
+ []
+
+<img//bug_2.png, id=733, 709.14937pt x 584.1825pt>
+File: img//bug_2.png Graphic file (type png)
+<use img//bug_2.png>
+Package pdftex.def Info: img//bug_2.png  used on input line 904.
+(pdftex.def)             Requested size: 433.62pt x 357.21544pt.
+
+Overfull \hbox (3.61537pt too wide) in paragraph at lines 904--905
+[][] 
+ []
+
+1: section
+[52
+
+ <./img//bug_1.png>] [53 <./img//bug_2.png>]
+Appendix C.
+<img/Survey1.jpg, id=746, 608.2725pt x 2307.37032pt>
+File: img/Survey1.jpg Graphic file (type jpg)
+<use img/Survey1.jpg>
+Package pdftex.def Info: img/Survey1.jpg  used on input line 912.
+(pdftex.def)             Requested size: 126.47249pt x 479.73863pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--912
+ []\OT1/cmr/m/sc/8 (a) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--912
+ |\OT1/cmr/m/n/8 Survey 
+ []
+
+<img/Survey2.jpg, id=747, 606.76688pt x 2124.43687pt>
+File: img/Survey2.jpg Graphic file (type jpg)
+<use img/Survey2.jpg>
+Package pdftex.def Info: img/Survey2.jpg  used on input line 914.
+(pdftex.def)             Requested size: 126.47249pt x 442.80605pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 914--914
+ []\OT1/cmr/m/sc/8 (b) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 914--914
+ |\OT1/cmr/m/n/8 Survey 
+ []
+
+1: section
+[54
+
+]
+Overfull \vbox (221.41887pt too high) has occurred while \output is active []
+
+
+[55 <./img/Survey1.jpg> <./img/Survey2.jpg>]
+<img/Results.jpg, id=763, 609.02531pt x 1442.38875pt>
+File: img/Results.jpg Graphic file (type jpg)
+<use img/Results.jpg>
+Package pdftex.def Info: img/Results.jpg  used on input line 922.
+(pdftex.def)             Requested size: 126.47249pt x 299.52118pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 922--922
+ []\OT1/cmr/m/sc/8 (a) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 922--922
+ |\OT1/cmr/m/n/8 Survey 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 922--922
+ \OT1/cmr/m/n/8 Results 
+ []
+
+<img/Results2.jpg, id=764, 608.2725pt x 1522.93968pt>
+File: img/Results2.jpg Graphic file (type jpg)
+<use img/Results2.jpg>
+Package pdftex.def Info: img/Results2.jpg  used on input line 924.
+(pdftex.def)             Requested size: 126.47249pt x 316.64314pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+ []\OT1/cmr/m/sc/8 (b) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+ |\OT1/cmr/m/n/8 Survey 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--924
+ \OT1/cmr/m/n/8 Results 
+ []
+
+<img/Results3.jpg, id=765, 608.2725pt x 2098.08844pt>
+File: img/Results3.jpg Graphic file (type jpg)
+<use img/Results3.jpg>
+Package pdftex.def Info: img/Results3.jpg  used on input line 926.
+(pdftex.def)             Requested size: 126.47249pt x 436.22563pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 926--926
+ []\OT1/cmr/m/sc/8 (c) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 926--926
+ |\OT1/cmr/m/n/8 Survey 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 926--926
+ \OT1/cmr/m/n/8 Results 
+ []
+
+
+Overfull \vbox (12.68369pt too high) has occurred while \output is active []
+
+
+[56 <./img/Results.jpg> <./img/Results2.jpg> <./img/Results3.jpg>]
+Appendix D.
+<img/0.jpeg, id=774, 943.525pt x 1201.48875pt>
+File: img/0.jpeg Graphic file (type jpg)
+<use img/0.jpeg>
+Package pdftex.def Info: img/0.jpeg  used on input line 937.
+(pdftex.def)             Requested size: 144.54pt x 184.04718pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 937--937
+ []\OT1/cmr/m/sc/8 (a) |\OT1/cmr/m/n/8 Splash 
+ []
+
+<img/1.jpeg, id=775, 872.25874pt x 1163.34625pt>
+File: img/1.jpeg Graphic file (type jpg)
+<use img/1.jpeg>
+Package pdftex.def Info: img/1.jpeg  used on input line 939.
+(pdftex.def)             Requested size: 144.54pt x 192.7604pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 939--939
+ []\OT1/cmr/m/sc/8 (b) |\OT1/cmr/m/n/8 Home 
+ []
+
+<img/2.jpeg, id=776, 960.58875pt x 1718.42pt>
+File: img/2.jpeg Graphic file (type jpg)
+<use img/2.jpeg>
+Package pdftex.def Info: img/2.jpeg  used on input line 941.
+(pdftex.def)             Requested size: 144.54pt x 258.56473pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 941--941
+ []\OT1/cmr/m/sc/8 (c) |\OT1/cmr/m/n/8 New 
+ []
+
+! Undefined control sequence.
+l.942 		    \qqua
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<img/3.jpeg, id=777, 894.34125pt x 1664.2175pt>
+File: img/3.jpeg Graphic file (type jpg)
+<use img/3.jpeg>
+Package pdftex.def Info: img/3.jpeg  used on input line 943.
+(pdftex.def)             Requested size: 144.54pt x 268.9466pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 943--943
+ []\OT1/cmr/m/sc/8 (d) |\OT1/cmr/m/n/8 List 
+ []
+
+1: section
+[57
+
+]
+Overfull \vbox (227.61499pt too high) has occurred while \output is active []
+
+
+[58 <./img/0.jpeg> <./img/1.jpeg> <./img/2.jpeg> <./img/3.jpeg>]
+<img/4.jpeg, id=791, 924.45375pt x 1495.5875pt>
+File: img/4.jpeg Graphic file (type jpg)
+<use img/4.jpeg>
+Package pdftex.def Info: img/4.jpeg  used on input line 950.
+(pdftex.def)             Requested size: 144.54pt x 233.8219pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 950--950
+ []\OT1/cmr/m/sc/8 (a) |\OT1/cmr/m/n/8 Delete 
+ []
+
+<img/5.jpeg, id=792, 914.41624pt x 1588.93625pt>
+File: img/5.jpeg Graphic file (type jpg)
+<use img/5.jpeg>
+Package pdftex.def Info: img/5.jpeg  used on input line 952.
+(pdftex.def)             Requested size: 144.54pt x 251.15585pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 952--952
+ []\OT1/cmr/m/sc/8 (b) |\OT1/cmr/m/n/8 View 
+ []
+
+<img/LectureMate_Splash.png, id=793, 361.35pt x 642.4pt>
+File: img/LectureMate_Splash.png Graphic file (type png)
+<use img/LectureMate_Splash.png>
+Package pdftex.def Info: img/LectureMate_Splash.png  used on input line 961.
+(pdftex.def)             Requested size: 144.54pt x 256.95544pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 961--961
+ []\OT1/cmr/m/sc/8 (a) |\OT1/cmr/m/n/8 Splash 
+ []
+
+<img/LectureMate_Home.png, id=794, 361.35pt x 642.4pt>
+File: img/LectureMate_Home.png Graphic file (type png)
+<use img/LectureMate_Home.png>
+Package pdftex.def Info: img/LectureMate_Home.png  used on input line 963.
+(pdftex.def)             Requested size: 144.54pt x 256.95544pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 963--963
+ []\OT1/cmr/m/sc/8 (b) |\OT1/cmr/m/n/8 Home 
+ []
+
+<img/LectureMate_New.png, id=795, 361.35pt x 642.4pt>
+File: img/LectureMate_New.png Graphic file (type png)
+<use img/LectureMate_New.png>
+Package pdftex.def Info: img/LectureMate_New.png  used on input line 965.
+(pdftex.def)             Requested size: 144.54pt x 256.95544pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--965
+ []\OT1/cmr/m/sc/8 (c) |\OT1/cmr/m/n/8 New 
+ []
+
+<img/LectureMate_View.png, id=796, 361.35pt x 642.4pt>
+File: img/LectureMate_View.png Graphic file (type png)
+<use img/LectureMate_View.png>
+Package pdftex.def Info: img/LectureMate_View.png  used on input line 967.
+(pdftex.def)             Requested size: 144.54pt x 256.95544pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 967--967
+ []\OT1/cmr/m/sc/8 (d) |\OT1/cmr/m/n/8 List 
+ []
+
+[59 <./img/4.jpeg> <./img/5.jpeg>]
+Overfull \vbox (106.01889pt too high) has occurred while \output is active []
+
+
+[60 <./img/LectureMate_Splash.png> <./img/LectureMate_Home.png> <./img/LectureM
+ate_New.png> <./img/LectureMate_View.png>]
+<img/LectureMate_Delete.png, id=818, 361.35pt x 642.4pt>
+File: img/LectureMate_Delete.png Graphic file (type png)
+<use img/LectureMate_Delete.png>
+Package pdftex.def Info: img/LectureMate_Delete.png  used on input line 974.
+(pdftex.def)             Requested size: 144.54pt x 256.95544pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 974--974
+ []\OT1/cmr/m/sc/8 (a) |\OT1/cmr/m/n/8 Delete 
+ []
+
+<img/LectureMate_AddNotes.png, id=819, 361.35pt x 642.4pt>
+File: img/LectureMate_AddNotes.png Graphic file (type png)
+<use img/LectureMate_AddNotes.png>
+Package pdftex.def Info: img/LectureMate_AddNotes.png  used on input line 976.
+(pdftex.def)             Requested size: 144.54pt x 256.95544pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 976--976
+ []\OT1/cmr/m/sc/8 (b) |\OT1/cmr/m/n/8 View 
+ []
+
+[61 <./img/LectureMate_Delete.png> <./img/LectureMate_AddNotes.png>]
+Appendix E.
+<img//Firebase.png, id=829, 1927.2pt x 1082.0425pt>
+File: img//Firebase.png Graphic file (type png)
+<use img//Firebase.png>
+Package pdftex.def Info: img//Firebase.png  used on input line 983.
+(pdftex.def)             Requested size: 433.62pt x 243.44905pt.
+
+Overfull \hbox (3.61537pt too wide) in paragraph at lines 983--984
+[][] 
+ []
+
+1: section
+[62
+
+ <./img//Firebase.png>]
+Appendix F.
+<img//GanttChart.png, id=836, 963.6pt x 542.025pt>
+File: img//GanttChart.png Graphic file (type png)
+<use img//GanttChart.png>
+Package pdftex.def Info: img//GanttChart.png  used on input line 990.
+(pdftex.def)             Requested size: 433.62pt x 243.90898pt.
+
+Overfull \hbox (3.61537pt too wide) in paragraph at lines 990--991
+[][] 
+ []
+
+1: section
+[63
+
+ <./img//GanttChart.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1003.
+
+1: section
+[64
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1003.
+ (4.3.2FinalReport.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1003.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1003.
+
+Package rerunfilecheck Info: File `4.3.2FinalReport.out' has not changed.
+(rerunfilecheck)             Checksum: E864863468573C01E3A19A718BE1C712;12324.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 20190 strings out of 480932
+ 422669 string characters out of 2909646
+ 698888 words of memory out of 3000000
+ 35570 multiletter control sequences out of 15000+200000
+ 543155 words of font info for 62 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 48i,20n,77p,843b,830s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\ManpreetBance\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec
+/dpi600\tcrm1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt1
+0.pfb>
+Output written on 4.3.2FinalReport.pdf (65 pages, 4249799 bytes).
+PDF statistics:
+ 938 PDF objects out of 1000 (max. 8388607)
+ 224 named destinations out of 1000 (max. 500000)
+ 885 words of extra memory for PDF output out of 10000 (max. 10000000)
+

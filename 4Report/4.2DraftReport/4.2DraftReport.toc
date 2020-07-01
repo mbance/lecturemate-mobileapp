@@ -1,0 +1,55 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}%
+\contentsline {section}{\numberline {1.1}Motivation}{1}%
+\contentsline {section}{\numberline {1.2}Scope}{2}%
+\contentsline {section}{\numberline {1.3}Objectives}{2}%
+\contentsline {chapter}{\numberline {2}Technical Specification}{3}%
+\contentsline {section}{\numberline {2.1}Background Research}{3}%
+\contentsline {subsection}{\numberline {2.1.1}Existing Systems}{3}%
+\contentsline {subsubsection}{Soundcloud}{3}%
+\contentsline {subsubsection}{Evernote}{3}%
+\contentsline {subsubsection}{Siri}{3}%
+\contentsline {section}{\numberline {2.2}Overview}{3}%
+\contentsline {section}{\numberline {2.3}Application Frameworks}{4}%
+\contentsline {section}{\numberline {2.4}Full Stack Development}{4}%
+\contentsline {subsection}{\numberline {2.4.1}Flutter}{4}%
+\contentsline {subsubsection}{Dart platform}{4}%
+\contentsline {subsubsection}{Flutter engine}{4}%
+\contentsline {subsubsection}{Foundation library}{4}%
+\contentsline {subsubsection}{Widgets}{5}%
+\contentsline {chapter}{\numberline {3}Project Management}{6}%
+\contentsline {section}{\numberline {3.1}Labour/Resource Management}{6}%
+\contentsline {section}{\numberline {3.2}Methodology}{7}%
+\contentsline {subsection}{\numberline {3.2.1}Agile Development Method}{7}%
+\contentsline {subsection}{\numberline {3.2.2}Kanban}{7}%
+\contentsline {section}{\numberline {3.3}Version Control}{7}%
+\contentsline {subsection}{\numberline {3.3.1}Git}{7}%
+\contentsline {chapter}{\numberline {4}Analysis}{8}%
+\contentsline {section}{\numberline {4.1}System Requirements}{8}%
+\contentsline {subsection}{\numberline {4.1.1}Functional Requirements}{8}%
+\contentsline {subsection}{\numberline {4.1.2}Non-functional Requirements}{8}%
+\contentsline {section}{\numberline {4.2}Stakeholders}{8}%
+\contentsline {section}{\numberline {4.3}Use Case}{8}%
+\contentsline {subsection}{\numberline {4.3.1}Use Case Scenarios}{8}%
+\contentsline {subsection}{\numberline {4.3.2}Use Case Diagram}{8}%
+\contentsline {chapter}{\numberline {5}Design}{9}%
+\contentsline {section}{\numberline {5.1}Design Models}{9}%
+\contentsline {subsection}{\numberline {5.1.1}Activity Diagram}{9}%
+\contentsline {subsection}{\numberline {5.1.2}Sequence Diagram}{9}%
+\contentsline {section}{\numberline {5.2}UI Design}{9}%
+\contentsline {chapter}{\numberline {6}Implementation}{10}%
+\contentsline {section}{\numberline {6.1}Front End - Flutter}{10}%
+\contentsline {section}{\numberline {6.2}Business Layer - Flutter}{10}%
+\contentsline {section}{\numberline {6.3}Mobile Application Development}{10}%
+\contentsline {section}{\numberline {6.4}Code Review}{10}%
+\contentsline {section}{\numberline {6.5}Disruptions and Solutions}{10}%
+\contentsline {chapter}{\numberline {7}Testing}{11}%
+\contentsline {section}{\numberline {7.1}Testing Criteria}{11}%
+\contentsline {section}{\numberline {7.2}Testing Results}{11}%
+\contentsline {section}{\numberline {7.3}Formative Evalutation}{11}%
+\contentsline {section}{\numberline {7.4}Functional Requirements Evaluation}{11}%
+\contentsline {section}{\numberline {7.5}Non-functional Requirements Evaluation}{11}%
+\contentsline {chapter}{\numberline {8}Conclusion}{12}%
+\contentsline {section}{\numberline {8.1}Summative Evaluation}{12}%
+\contentsline {section}{\numberline {8.2}Potential Future Development}{12}%
+\contentsline {chapter}{\numberline {9}Appendices}{13}%
+\contentsline {chapter}{\numberline {10}References}{14}%

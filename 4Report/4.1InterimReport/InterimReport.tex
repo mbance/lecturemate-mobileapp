@@ -1,0 +1,77 @@
+\documentclass{report}
+
+%Document Preamble
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper, portrait, margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{sectsty}
+\usepackage{titlesec}
+\usepackage[normalem]{ulem}
+\usepackage{hyperref}
+\useunder{\uline}{\ul}{}
+
+\chapternumberfont{\LARGE} 
+\chaptertitlefont{\Large}
+\sectionfont{\large}
+\subsectionfont{\normalsize}
+
+\usepackage{enumitem}
+\setitemize{noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt}
+
+%Document Title Page
+\title{\textbf{IS53007D: Computing Project} \vspace{0.5cm} \hrule \vspace{0.5cm} Project Interim Report}
+\date{January 2020}
+\author{\textbf{Manpreet Bance}}
+
+\begin{document}
+\maketitle
+
+%Document
+
+\chapter*{Project Overview}
+\par Initially I planned to create a mobile application for use in lectures to record and make useful and detailed notes to be collected and in a single location for revision at a later stage. The features would include video and audio recording, the audio using the phone's input and the video from, if available, the lecture hall's camera. This would provide a simple solution to issues that many students face in note-taking by creating a platform where they can store all information related to a lecture which is available to all students and staff who can build upon the recordings to make more detailed and personalised notes to fit their revision style. I have decided to entitle the app, LectureMate. 
+
+\chapter*{Summary of work to date}
+\par Since the beginning of the project I decided that I would carefully plan each stage to ensure that at every stage I would be meeting the milestone or a personal task which I had set so that I would know whether I am progressing at a satisfactory pace. Prior to conception of the idea, I wrote down an ideation outlining what ideas I had come up with before settling on the idea of LectureMate.\\  Ideation \url{https://gitlab.doc.gold.ac.uk/mbanc001/computing_project/blob/master/1Ideation/Ideation.pdf}\\
+
+\par Following this, I discussed a list of potential ideas and features which I thought might be viable and went through these with my supervisor who advised me to focus on building the main functionality of the application being the recording features and building and iterating additional functions on top of this. As well as this, I was advised to carry out more research to create a more stronger and knowledge-backed specification for my project.\\ Specification \url{https://gitlab.doc.gold.ac.uk/mbanc001/computing_project/blob/master/2Specification/Specification.pdf}\\
+
+\par I then carried out research looking into existing or similar applications which might already exist and looked at how mine could differentiate from these to which I came to the conclusion that I would base my note taking app around the recording of the audio and similar to the way SoundCloud works in that comments are able to be made at a certain timestamp, this feature would be useful when listening or reading back to see how it was explained and would help to make more sense of this.\\
+
+\par After carrying out research, I went ahead and created a paper prototype of what my app would look like and gather feedback on whether this would be an app which would be used by students or those in education. Feedback I received from users would be that it would be a very useful app which would help with studying and revision which is good as this is what I set out the project to achieve. Using these I was able to create a more high fidelity prototype which could be interacted with and tested again to see whether the design of the app is good and engaging for users and simple enough to use and carry out simple tasks without instruction. \\
+
+Blog posts were kept as a personal record to reference what I was doing at each stage of the project, these being in my own account and so at a later stage I would be able to return when speaking in more depth in my final report. My blog can be found here: \url{https://www.blogger.com/blogger.g?blogID=2586968534958251362#allposts}
+
+\chapter*{Evaluation}
+Since initially planning at the beginning of the project, I have managed to meet all of the milestones set, as well as this I had set my own personal milestones and tasks in order to make sure I was ahead of schedule so I could spend as much time as possible working on each stage of the project. I created a Gantt chart to monitor the progress of the project and it is a good visual reminder where I can look back for reference and while I am working through to see at which stage I should be working at. The Gantt chart can be found here \url{https://gitlab.doc.gold.ac.uk/mbanc001/computing_project/blob/master/4Report/4.1InterimReport/GanttChart.png}\\
+
+My project has made some slight developments which have deferred slightly from my initial idea - these changes have included focussing more on the audio recording feature and centering the app around this which after conferring with my supervisor agreed that this is the feature which differentiates from other similar applications. Initially, my idea was to focus on the idea of grabbing a PowerPoint or other presentation and having an overlay which records audio in the background, however, many applications already provide this feature and I thought of using audio with notes being able to added based around this. The audio recording feature was inspired from SoundCloud where users can comments at a certain timestamp in the audio and this feature in my application will work in the same way as well as the ability to add hotspots which can be seen visually in the audio waveform which allows the user to see important places in the audio that they can listen back to when revising later on. I believe that these developments have made the app more different to others which already exist and provide a more unique and useful feature to users of the app.\\
+
+My scoping for the project was large enough to consider some tolerance of time constraints that I may have been subject to from other modules and this gave me a good amount of time to work on my project to a good standard creating good progress and meeting both set and personal milestones and sub-tasks. I was able to document the process well through blogs. However, version control was something that I could have worked on better as I lost track of the issues and tasks that needed to be completed which would have been easy to resolve should I have been using Git to manage my files and track any changes. I have since uploaded and kept my Git repository up to date with the latest files and changes to my project.\\
+
+I feel that I am now making good progress on the project as a whole, however, I would like to spend some more time speaking to potential users, carrying out primary research and testing initial ideas and create prototypes to put to these testers to ensure that it is a viable product and in doing so I will be able to gather user requirements and be able to improve the app further. In addition to this, I feel like I need to practice my own developing skills in creating a mobile application as it is not something I have done in the past so I would benefit in learning to ease the process of development and implementation of the different features within the application.\\
+
+I have already begun to learn about mobile application development by following tutorials onlline and building a rough structure and skeleton to my app for me to build in layers and as I am following an Agile Development method, to iterate my app and work recursively through to ensure the app is at the best standard. Although, initially I will be focussed on having the app work functionally rather than work on the appearance and aesthetics of the app as I feel this is something which can be worked on at a later stage.
+
+\section*{Revised project plan}
+\begin{itemize}
+	\item Create a low-fidelity prototype
+	\item Create a high-fidelity prototype
+	\item Conduct feedback of both prototypes
+	\item Create user personas of the potential users who may use my application
+	\item Create a User requirements document to list what users would want from my application as a result of feedback
+	\item Begin developing application step by step implementing each feature one at a time
+	\item User testing at the stage where I have met the MVP (Minimum Viable Product)
+	\item System testing to ensure all features are working as designed and there are no unexpected bugs
+	\item Begin working on the appearance of the application to make it more user-friendly and appealing
+	\item Begin writing draft report and gather feedback and improvements to be made
+	\item Finalise report
+	\item Begin deployment
+\end{itemize}
+
+
+\section*{Repository link}
+\url{https://gitlab.doc.gold.ac.uk/mbanc001/computing_project}
+
+\end{document}
