@@ -1,0 +1,33 @@
+name: lecturemate
+description: LectureMate | Dynamic Notes App
+
+version: 1.0.0
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_sound: ^4.0.4+1
+  audio_recorder: ^1.0.2
+  record_mp3: ^2.0.0
+  audioplayers: ^0.15.1
+  permission_handler: ^5.0.0+hotfix.5
+  cloud_firestore: ^0.12.9+4
+  firebase_storage: ^3.1.5
+  flutter_audio_recorder:
+  provider:
+  cupertino_icons: ^0.1.2
+  splashscreen: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/img/logo.jpg

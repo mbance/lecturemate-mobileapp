@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540095443168",
+    "firebase_url": "https://lecturemate-b8c3d.firebaseio.com",
+    "project_id": "lecturemate-b8c3d",
+    "storage_bucket": "lecturemate-b8c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540095443168:android:96e42f5bb11a13be176085",
+        "android_client_info": {
+          "package_name": "com.mbance.lecturemate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540095443168-5qnbv6scdilm0ii4mmbkk16sq9f2v45h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7YUDnNLVmaoRiLwbUXBRh63K1wEDelP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540095443168-5qnbv6scdilm0ii4mmbkk16sq9f2v45h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
